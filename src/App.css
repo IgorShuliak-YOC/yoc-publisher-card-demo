@@ -1,0 +1,13 @@
+@import '~antd/dist/antd.css';
+
+/*.ant-table-content {*/
+/*	overflow: scroll;*/
+/*}*/
+
+.logo {
+	float: left;
+	color: #fff;
+}
+.ant-table-row-level-0 td * {
+	white-space: nowrap;
+}
